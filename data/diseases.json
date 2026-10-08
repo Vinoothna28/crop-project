@@ -1,0 +1,283 @@
+[
+    {
+        "disease_id": "tomato_early_blight",
+        "model_labels": [
+            "Tomato___Early_blight",
+            "Tomato Early Blight",
+            "early blight"
+        ],
+        "crop": "Tomato",
+
+        "severity": 70,
+
+        "risk_profile": {
+            "min_temp_c": 20,
+            "max_temp_c": 30,
+            "min_humidity": 75
+        },
+
+        "languages": {
+            "en": {
+                "name": "Tomato Early Blight",
+                "short_description": "A fungal disease that commonly affects tomato leaves and can reduce plant growth and yield.",
+                "symptoms": [
+                    "Dark brown spots may appear on older leaves.",
+                    "Spots may develop circular or target-like patterns.",
+                    "Affected leaves can turn yellow and fall early."
+                ],
+                "organic_recommendation": [
+                    "Remove severely affected leaves and dispose of them safely.",
+                    "Avoid keeping infected plant debris around the crop.",
+                    "Maintain adequate spacing between plants for better airflow.",
+                    "Avoid unnecessary overhead irrigation."
+                ],
+                "chemical_recommendation": [
+                    "Use only a fungicide approved for tomato and the identified disease.",
+                    "Follow the product label for dose, spray interval, crop stage and safety precautions."
+                ],
+                "prevention": [
+                    "Maintain good field sanitation.",
+                    "Avoid prolonged leaf wetness.",
+                    "Use healthy planting material.",
+                    "Monitor older leaves regularly."
+                ]
+            },
+
+            "te": {
+                "name": "టమాటా ఎర్లీ బ్లైట్",
+                "short_description": "టమాటా ఆకులను ప్రభావితం చేసే శిలీంధ్ర వ్యాధి. ఇది మొక్క పెరుగుదల మరియు దిగుబడిని తగ్గించవచ్చు.",
+                "symptoms": [
+                    "పాత ఆకులపై ముదురు గోధుమ రంగు మచ్చలు కనిపించవచ్చు.",
+                    "మచ్చలు వలయాకార నమూనాలను ఏర్పరచవచ్చు.",
+                    "ప్రభావిత ఆకులు పసుపు రంగులోకి మారి ముందుగానే రాలిపోవచ్చు."
+                ],
+                "organic_recommendation": [
+                    "తీవ్రంగా ప్రభావితమైన ఆకులను తొలగించి సురక్షితంగా పారవేయండి.",
+                    "వ్యాధి సోకిన మొక్కల అవశేషాలను పొలంలో ఉంచవద్దు.",
+                    "మొక్కల మధ్య తగినంత దూరం ఉంచి గాలి ప్రసరణను మెరుగుపరచండి.",
+                    "అవసరం లేని పై నుంచి నీరు పెట్టడాన్ని నివారించండి."
+                ],
+                "chemical_recommendation": [
+                    "టమాటా మరియు గుర్తించిన వ్యాధికి ఆమోదించబడిన శిలీంద్రనాశకాన్ని మాత్రమే ఉపయోగించండి.",
+                    "మోతాదు, పిచికారీ విరామం, పంట దశ మరియు భద్రతా సూచనల కోసం ఉత్పత్తి లేబుల్‌ను తప్పనిసరిగా అనుసరించండి."
+                ],
+                "prevention": [
+                    "పొలంలో పరిశుభ్రతను పాటించండి.",
+                    "ఆకులు ఎక్కువసేపు తడిగా ఉండకుండా చూడండి.",
+                    "ఆరోగ్యకరమైన నాట్లను ఉపయోగించండి.",
+                    "పాత ఆకులను క్రమం తప్పకుండా పరిశీలించండి."
+                ]
+            },
+
+            "hi": {
+                "name": "टमाटर अर्ली ब्लाइट",
+                "short_description": "यह एक फफूंदजनित रोग है जो टमाटर की पत्तियों को प्रभावित करता है और पौधे की वृद्धि तथा उपज को कम कर सकता है।",
+                "symptoms": [
+                    "पुरानी पत्तियों पर गहरे भूरे धब्बे दिखाई दे सकते हैं।",
+                    "धब्बों में गोल या छल्लेनुमा पैटर्न दिखाई दे सकता है।",
+                    "प्रभावित पत्तियां पीली होकर समय से पहले गिर सकती हैं।"
+                ],
+                "organic_recommendation": [
+                    "बहुत अधिक प्रभावित पत्तियों को हटाकर सुरक्षित तरीके से नष्ट करें।",
+                    "संक्रमित पौधों के अवशेष खेत में न छोड़ें।",
+                    "बेहतर हवा के संचार के लिए पौधों के बीच पर्याप्त दूरी रखें।",
+                    "अनावश्यक रूप से ऊपर से सिंचाई करने से बचें।"
+                ],
+                "chemical_recommendation": [
+                    "टमाटर और पहचाने गए रोग के लिए अनुमोदित फफूंदनाशक का ही उपयोग करें।",
+                    "मात्रा, छिड़काव अंतराल, फसल अवस्था और सुरक्षा निर्देशों के लिए उत्पाद के लेबल का पालन करें।"
+                ],
+                "prevention": [
+                    "खेत की स्वच्छता बनाए रखें।",
+                    "पत्तियों को लंबे समय तक गीला रहने से बचाएं।",
+                    "स्वस्थ रोपण सामग्री का उपयोग करें।",
+                    "पुरानी पत्तियों की नियमित निगरानी करें।"
+                ]
+            }
+        }
+    },
+
+    {
+        "disease_id": "cotton_leaf_curl",
+        "model_labels": [
+            "Cotton___Leaf_curl",
+            "Cotton Leaf Curl",
+            "cotton leaf curl"
+        ],
+        "crop": "Cotton",
+
+        "severity": 80,
+
+        "risk_profile": {
+            "min_temp_c": 22,
+            "max_temp_c": 32,
+            "min_humidity": 60
+        },
+
+        "languages": {
+            "en": {
+                "name": "Cotton Leaf Curl",
+                "short_description": "A serious cotton disease associated with leaf curling, distortion and reduced plant development.",
+                "symptoms": [
+                    "Leaves may curl upward or downward.",
+                    "Leaves may become distorted or thickened.",
+                    "Young plants may show reduced growth.",
+                    "Severely affected plants may have reduced yield."
+                ],
+                "organic_recommendation": [
+                    "Remove severely affected plant material where appropriate.",
+                    "Maintain field sanitation.",
+                    "Regularly monitor young cotton plants.",
+                    "Control alternate weed hosts around the field."
+                ],
+                "chemical_recommendation": [
+                    "Use only locally approved products for the identified problem.",
+                    "Follow the product label and recommendations from agricultural authorities.",
+                    "Do not increase the dose beyond the approved label rate."
+                ],
+                "prevention": [
+                    "Use healthy and certified planting material.",
+                    "Monitor the crop regularly for early symptoms.",
+                    "Maintain proper field sanitation.",
+                    "Manage known vector and alternate host populations according to local agricultural guidance."
+                ]
+            },
+
+            "te": {
+                "name": "పత్తి ఆకు ముడత",
+                "short_description": "పత్తి మొక్కలలో ఆకులు ముడుచుకోవడం, ఆకారంలో మార్పులు మరియు మొక్క పెరుగుదల తగ్గడం వంటి లక్షణాలను కలిగించే తీవ్రమైన సమస్య.",
+                "symptoms": [
+                    "ఆకులు పైకి లేదా కిందికి ముడుచుకోవచ్చు.",
+                    "ఆకుల ఆకారం మారవచ్చు లేదా ఆకులు మందంగా మారవచ్చు.",
+                    "చిన్న మొక్కల్లో పెరుగుదల తగ్గవచ్చు.",
+                    "తీవ్రంగా ప్రభావితమైన మొక్కల్లో దిగుబడి తగ్గవచ్చు."
+                ],
+                "organic_recommendation": [
+                    "అవసరమైన చోట తీవ్రంగా ప్రభావితమైన మొక్క భాగాలను తొలగించండి.",
+                    "పొలంలో పరిశుభ్రతను పాటించండి.",
+                    "చిన్న పత్తి మొక్కలను క్రమం తప్పకుండా పరిశీలించండి.",
+                    "పొలం చుట్టుపక్కల ప్రత్యామ్నాయ కలుపు మొక్కలను నియంత్రించండి."
+                ],
+                "chemical_recommendation": [
+                    "గుర్తించిన సమస్యకు స్థానికంగా ఆమోదించబడిన ఉత్పత్తులను మాత్రమే ఉపయోగించండి.",
+                    "ఉత్పత్తి లేబుల్ మరియు వ్యవసాయ అధికారుల సూచనలను అనుసరించండి.",
+                    "ఆమోదించబడిన లేబుల్ మోతాదును మించవద్దు."
+                ],
+                "prevention": [
+                    "ఆరోగ్యకరమైన మరియు ధృవీకరించబడిన నాట్లను ఉపయోగించండి.",
+                    "ప్రారంభ లక్షణాల కోసం పంటను క్రమం తప్పకుండా పరిశీలించండి.",
+                    "పొలంలో పరిశుభ్రతను పాటించండి.",
+                    "స్థానిక వ్యవసాయ సూచనల ప్రకారం వ్యాధి వ్యాప్తికి సంబంధించిన కీటకాలు మరియు ప్రత్యామ్నాయ ఆతిథ్య మొక్కలను నిర్వహించండి."
+                ]
+            },
+
+            "hi": {
+                "name": "कपास लीफ कर्ल",
+                "short_description": "कपास में पत्तियों के मुड़ने, विकृत होने और पौधे की वृद्धि कम होने जैसी समस्याएं पैदा करने वाला गंभीर रोग।",
+                "symptoms": [
+                    "पत्तियां ऊपर या नीचे की ओर मुड़ सकती हैं।",
+                    "पत्तियों का आकार बदल सकता है या वे मोटी हो सकती हैं।",
+                    "छोटे पौधों की वृद्धि कम हो सकती है।",
+                    "अधिक प्रभावित पौधों में उपज कम हो सकती है।"
+                ],
+                "organic_recommendation": [
+                    "जहां आवश्यक हो वहां अधिक प्रभावित पौधों के हिस्सों को हटाएं।",
+                    "खेत की स्वच्छता बनाए रखें।",
+                    "कपास के छोटे पौधों की नियमित निगरानी करें।",
+                    "खेत के आसपास वैकल्पिक खरपतवार मेजबानों को नियंत्रित करें।"
+                ],
+                "chemical_recommendation": [
+                    "पहचानी गई समस्या के लिए स्थानीय रूप से अनुमोदित उत्पादों का ही उपयोग करें।",
+                    "उत्पाद के लेबल और कृषि अधिकारियों की सलाह का पालन करें।",
+                    "अनुमोदित लेबल मात्रा से अधिक उपयोग न करें।"
+                ],
+                "prevention": [
+                    "स्वस्थ और प्रमाणित रोपण सामग्री का उपयोग करें।",
+                    "शुरुआती लक्षणों के लिए फसल की नियमित निगरानी करें।",
+                    "खेत की स्वच्छता बनाए रखें।",
+                    "स्थानीय कृषि सलाह के अनुसार रोग फैलाने वाले कीटों और वैकल्पिक मेजबान पौधों का प्रबंधन करें।"
+                ]
+            }
+        }
+    },
+
+    {
+        "disease_id": "tomato_healthy",
+        "model_labels": [
+            "Tomato___healthy",
+            "Tomato Healthy",
+            "healthy tomato"
+        ],
+        "crop": "Tomato",
+
+        "severity": 0,
+
+        "risk_profile": {
+            "min_temp_c": 18,
+            "max_temp_c": 32,
+            "min_humidity": 0
+        },
+
+        "languages": {
+            "en": {
+                "name": "Healthy Tomato",
+                "short_description": "The uploaded image shows characteristics consistent with a healthy tomato leaf.",
+                "symptoms": [
+                    "No obvious disease symptoms were detected in the uploaded image."
+                ],
+                "organic_recommendation": [
+                    "Continue regular crop monitoring.",
+                    "Maintain proper irrigation and field sanitation."
+                ],
+                "chemical_recommendation": [
+                    "No disease-specific chemical treatment is recommended based on this result."
+                ],
+                "prevention": [
+                    "Monitor the crop regularly.",
+                    "Use healthy planting material.",
+                    "Maintain balanced irrigation and nutrition."
+                ]
+            },
+
+            "te": {
+                "name": "ఆరోగ్యకరమైన టమాటా",
+                "short_description": "అప్‌లోడ్ చేసిన చిత్రంలో ఆరోగ్యకరమైన టమాటా ఆకుకు అనుగుణమైన లక్షణాలు కనిపిస్తున్నాయి.",
+                "symptoms": [
+                    "అప్‌లోడ్ చేసిన చిత్రంలో స్పష్టమైన వ్యాధి లక్షణాలు కనిపించలేదు."
+                ],
+                "organic_recommendation": [
+                    "పంటను క్రమం తప్పకుండా పరిశీలించడం కొనసాగించండి.",
+                    "సరైన నీటిపారుదల మరియు పొల పరిశుభ్రతను పాటించండి."
+                ],
+                "chemical_recommendation": [
+                    "ఈ ఫలితం ఆధారంగా వ్యాధి-ప్రత్యేక రసాయన చికిత్స అవసరం లేదు."
+                ],
+                "prevention": [
+                    "పంటను క్రమం తప్పకుండా పరిశీలించండి.",
+                    "ఆరోగ్యకరమైన నాట్లను ఉపయోగించండి.",
+                    "సమతుల్య నీటిపారుదల మరియు పోషక నిర్వహణను పాటించండి."
+                ]
+            },
+
+            "hi": {
+                "name": "स्वस्थ टमाटर",
+                "short_description": "अपलोड की गई तस्वीर में स्वस्थ टमाटर की पत्ती के अनुरूप विशेषताएं दिखाई देती हैं।",
+                "symptoms": [
+                    "अपलोड की गई तस्वीर में बीमारी के स्पष्ट लक्षण दिखाई नहीं दिए।"
+                ],
+                "organic_recommendation": [
+                    "फसल की नियमित निगरानी जारी रखें।",
+                    "उचित सिंचाई और खेत की स्वच्छता बनाए रखें।"
+                ],
+                "chemical_recommendation": [
+                    "इस परिणाम के आधार पर रोग-विशिष्ट रासायनिक उपचार की सलाह नहीं दी जाती है।"
+                ],
+                "prevention": [
+                    "फसल की नियमित निगरानी करें।",
+                    "स्वस्थ रोपण सामग्री का उपयोग करें।",
+                    "संतुलित सिंचाई और पोषक प्रबंधन बनाए रखें।"
+                ]
+            }
+        }
+    }
+]
